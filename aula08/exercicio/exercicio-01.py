@@ -65,7 +65,7 @@ def salvar():
     dataAtualizacao = txtDataAtualizacao.get()
     descricao = txtDescricao.get()
 
-    cliente = { 
+    cliente = {
         "codigo": codigo, 
         "nome": nome, 
         "sexo": sexo, 
